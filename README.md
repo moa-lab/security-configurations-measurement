@@ -16,3 +16,19 @@ More sample datasets can be found in Zenodo: DOI: 10.5281/zenodo.14880589
 
 Full dataset can be accessed upon request. The request link can be found at: https://moa-lab.net/security-configurations-measurement/
 
+## Dataset Structure:
+```
+.
+└── security-configurations-measurement
+	└── 2024-01
+		└── 2024-01-04
+			├── passportimmutable.com
+			│	├── passportimmutable.com.png
+			│	├── passportimmutable.com.json
+			│	└── passportimmutable.com.html
+			├── servicese-dhlhost.podzone.net
+			│	├── servicese-dhlhost.podzone.net.png
+			│	├── servicese-dhlhost.podzone.net.json
+			│	└── servicese-dhlhost.podzone.net.html
+			└──	...
+```
