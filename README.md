@@ -13,6 +13,7 @@ Phishing attacks pose a significant threat to Internet users. Understanding the 
 Due to the size limitation, this repository contains sample dataset.
 
 More sample datasets can be found in Zenodo: DOI: 10.5281/zenodo.14880589
+Zenodo link: https://zenodo.org/records/14880589
 
 Full dataset can be accessed upon request. The request link can be found at: https://moa-lab.net/security-configurations-measurement/
 
